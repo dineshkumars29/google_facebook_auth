@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297220374848",
+    "project_id": "facebook-auth-143ff",
+    "storage_bucket": "facebook-auth-143ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297220374848:android:ca2911a21798c988413aa5",
+        "android_client_info": {
+          "package_name": "com.flutter.frameslab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297220374848-llm0fcinmojc6qujberdq7nbi3gaqrba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSP1H-GAzYkT_pPqbA1d8gDBqAbcEUkXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297220374848-llm0fcinmojc6qujberdq7nbi3gaqrba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
